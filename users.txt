@@ -1,3 +1,0 @@
-dharsha; sudo,dev,www-data
-Ravi; sudo
-Bharath; dev,www-data
