@@ -1,5 +1,5 @@
 
-           USER MANAGEMENT AUTOMATION PROJECT
+                                            USER MANAGEMENT AUTOMATION PROJECT
 
 
 1. PROJECT PURPOSE:
@@ -9,7 +9,7 @@ on a Linux system using a simple input file. It removes the need
 to manually add users one-by-one and ensures consistent setup 
 for new developer accounts.
 
-The script:
+2. The script:
 - Reads usernames and groups from users.txt
 - Creates required groups
 - Creates new users
@@ -19,7 +19,7 @@ The script:
 - Logs all actions in a separate log file
 
 
-2. PROJECT FEATURES:
+3. PROJECT FEATURES:
 
 -> Reads user data from users.txt  
 -> Supports Windows CRLF and Linux LF formats  
@@ -33,12 +33,15 @@ The script:
 -> Fully compatible with VS Code terminal  
 
 
-3. PROJECT STRUCTURE:
+4. PROJECT STRUCTURE:
 
 user-management-project/
 │
-├── create_users.sh     
-├── users.txt           
+
+├── create_users.sh  
+
+├── users.txt     
+
 └── logs/               
      ├── user_management.log
      └── user_passwords.txt
@@ -79,11 +82,11 @@ Rules:
 
 6. SECURITY NOTES:
 
-✓ Passwords are stored in a file with permission 600  
-✓ Log file also uses permission 600  
-✓ Only root (sudo) can run the script  
-✓ No system folders are modified  
-✓ Safe to run on training machines or labs  
+-> Passwords are stored in a file with permission 600  
+-> Log file also uses permission 600  
+-> Only root (sudo) can run the script  
+-> No system folders are modified  
+-> Safe to run on training machines or labs  
 
 
 7. HOW TO RUN THIS PROJECT:
@@ -107,10 +110,20 @@ Command: cat logs/user_passwords.txt
 8. EXAMPLE LOG OUTPUT:
 
 2025-11-13 08:38:35 - ----- Starting User Creation Process -----
+
+
 2025-11-13 08:38:35 - Processing user: dharsha
+
+
 2025-11-13 08:38:35 - Group exists: sudo
+
+
 2025-11-13 08:38:35 - Group exists: dev
+
+
 2025-11-13 08:38:35 - Group exists: www-data
+
+
 2025-11-13 08:38:35 - User dharsha already exists.
 2025-11-13 08:38:35 - Password set for dharsha
 2025-11-13 08:38:35 - Processing user: Ravi
@@ -130,3 +143,4 @@ Command: cat logs/user_passwords.txt
 Task Name: User Management Automation (SysOps Challenge)
 Author: Dharsha
 Date: 13/11/2025
+
