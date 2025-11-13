@@ -166,9 +166,14 @@ Command: cat logs/user_passwords.txt
 
 
 
+-----------------------------------------------------------------------------------------------
+
 Task Name: User Management Automation (SysOps Challenge)
+
 Author: Dharsha
+
 Date: 13/11/2025
+
 
 
 
