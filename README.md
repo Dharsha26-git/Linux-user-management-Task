@@ -108,7 +108,7 @@ STEP 5: View generated passwords
 Command: cat logs/user_passwords.txt
 
 
-8. EXAMPLE LOG OUTPUT:
+8. SAMPLE LOG OUTPUT:
 
 
 2025-11-13 08:38:35 - ----- Starting User Creation Process -----
@@ -171,6 +171,7 @@ Task Name: User Management Automation (SysOps Challenge)
 Author: Dharsha
 
 Date: 13/11/2025
+
 
 
 
