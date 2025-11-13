@@ -45,7 +45,6 @@ user-management-project/
 
 └── logs/               
      ├── user_management.log
-
      
      └── user_passwords.txt
 
@@ -61,6 +60,8 @@ username; group1,group2,group3
 Dharsha; sudo,dev,www-data
 Ravi; sudo
 Bharath; dev,www-data
+Raj; dev,www-data
+Venkat; dev
 
 Rules:
 - Lines starting with # are ignored
@@ -168,6 +169,7 @@ Command: cat logs/user_passwords.txt
 Task Name: User Management Automation (SysOps Challenge)
 Author: Dharsha
 Date: 13/11/2025
+
 
 
 
