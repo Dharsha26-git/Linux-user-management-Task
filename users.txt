@@ -1,0 +1,5 @@
+dharsha; sudo,dev,www-data
+Ravi; sudo
+Bharath; dev,www-data
+Raj; dev,www-data
+Venkat; dev
