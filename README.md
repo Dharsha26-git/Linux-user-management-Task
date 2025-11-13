@@ -1,5 +1,5 @@
 
-           USER MANAGEMENT AUTOMATION PROJECT
+                                   USER MANAGEMENT AUTOMATION PROJECT
 
 
 1. PROJECT PURPOSE:
@@ -37,10 +37,14 @@ The script:
 
 user-management-project/
 │
-├── create_users.sh     
-├── users.txt           
-└── logs/               
+├── create_users.sh    
+
+├── users.txt      
+
+└── logs/     
+
      ├── user_management.log
+     
      └── user_passwords.txt
 
 
@@ -107,21 +111,37 @@ Command: cat logs/user_passwords.txt
 8. EXAMPLE LOG OUTPUT:
 
 2025-11-13 08:38:35 - ----- Starting User Creation Process -----
+
 2025-11-13 08:38:35 - Processing user: dharsha
+
 2025-11-13 08:38:35 - Group exists: sudo
+
 2025-11-13 08:38:35 - Group exists: dev
+
 2025-11-13 08:38:35 - Group exists: www-data
+
 2025-11-13 08:38:35 - User dharsha already exists.
+
 2025-11-13 08:38:35 - Password set for dharsha
+
 2025-11-13 08:38:35 - Processing user: Ravi
+
 2025-11-13 08:38:35 - Group exists: sudo
+
 2025-11-13 08:38:35 - User Ravi already exists.
+
 2025-11-13 08:38:35 - Password set for Ravi
+
 2025-11-13 08:38:35 - Processing user: Bharath
+
 2025-11-13 08:38:35 - Group exists: dev
+
 2025-11-13 08:38:35 - Group exists: www-data
+
 2025-11-13 08:38:35 - User Bharath already exists.
+
 2025-11-13 08:38:36 - Password set for Bharath
+
 2025-11-13 08:38:36 - ----- User Creation Process Completed -----
 
 
@@ -130,3 +150,4 @@ Command: cat logs/user_passwords.txt
 Task Name: User Management Automation (SysOps Challenge)
 Author: Dharsha
 Date: 13/11/2025
+
