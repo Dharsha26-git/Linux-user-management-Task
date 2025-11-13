@@ -1,0 +1,34 @@
+2025-11-13 08:50:55 - ----- Starting User Creation Process -----
+2025-11-13 08:50:55 - Processing user: dharsha
+2025-11-13 08:50:55 - Group exists: sudo
+2025-11-13 08:50:55 - Group exists: dev
+2025-11-13 08:50:55 - Group exists: www-data
+2025-11-13 08:50:55 - User dharsha already exists.
+2025-11-13 08:50:55 - Password set for dharsha
+2025-11-13 08:50:55 - Processing user: Ravi
+2025-11-13 08:50:55 - Group exists: sudo
+2025-11-13 08:50:55 - User Ravi already exists.
+2025-11-13 08:50:55 - Password set for Ravi
+2025-11-13 08:50:55 - Processing user: Bharath
+2025-11-13 08:50:55 - Group exists: dev
+2025-11-13 08:50:55 - Group exists: www-data
+2025-11-13 08:50:55 - User Bharath already exists.
+2025-11-13 08:50:55 - Password set for Bharath
+2025-11-13 08:50:55 - ----- User Creation Process Completed -----
+2025-11-13 09:47:47 - ----- Starting User Creation Process -----
+2025-11-13 09:47:47 - Processing user: dharsha
+2025-11-13 09:47:47 - Group exists: sudo
+2025-11-13 09:47:47 - Group exists: dev
+2025-11-13 09:47:47 - Group exists: www-data
+2025-11-13 09:47:47 - User dharsha already exists.
+2025-11-13 09:47:47 - Password set for dharsha
+2025-11-13 09:47:47 - Processing user: Ravi
+2025-11-13 09:47:47 - Group exists: sudo
+2025-11-13 09:47:47 - User Ravi already exists.
+2025-11-13 09:47:47 - Password set for Ravi
+2025-11-13 09:47:47 - Processing user: Bharath
+2025-11-13 09:47:47 - Group exists: dev
+2025-11-13 09:47:47 - Group exists: www-data
+2025-11-13 09:47:47 - User Bharath already exists.
+2025-11-13 09:47:47 - Password set for Bharath
+2025-11-13 09:47:47 - ----- User Creation Process Completed -----
