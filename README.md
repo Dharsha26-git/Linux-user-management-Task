@@ -44,9 +44,7 @@ user-management-project/
 ├── users.txt      
 
 └── logs/     
-
-     ├── user_management.log
-     
+     ├── user_management.log     
      └── user_passwords.txt
 
 
@@ -169,6 +167,7 @@ Command: cat logs/user_passwords.txt
 Task Name: User Management Automation (SysOps Challenge)
 Author: Dharsha
 Date: 13/11/2025
+
 
 
 
